@@ -2,7 +2,7 @@ import streamlit as st
 from openai import AzureOpenAI
 
 # --- Azure OpenAI Configuration ---
-AZURE_OPENAI_ENDPOINT = "https://kgsow-mgwfjt4s-swedencentral.cognitiveservices.azure.com/"
+AZURE_OPENAI_ENDPOINT = "add your add point here "
 AZURE_OPENAI_API_KEY = "YOUR_API_KEY"  # Replace securely
 AZURE_OPENAI_DEPLOYMENT = "gpt-4.1-2"
 AZURE_OPENAI_API_VERSION = "2024-12-01-preview"
